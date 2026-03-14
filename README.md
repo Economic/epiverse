@@ -33,20 +33,19 @@ library(epiverse)
 
 ## Packages
 
-| Package                                                  | Description                                        |
-|----------------------------------------------------------|----------------------------------------------------|
-| [epidatatools](https://economic.github.io/epidatatools/) | Tools for working with EPI data                    |
-| [epiextractr](https://economic.github.io/epiextractr/)   | Extract and process CPS microdata                  |
-| [epitargets](https://economic.github.io/epitargets/)     | targets pipeline helpers for EPI projects          |
-| [prefab](https://economic.github.io/prefab/)             | Opinionated theme system for R project scaffolding |
-| [realtalk](https://economic.github.io/realtalk/)         | Inflation adjustment for price data                |
-| [swadlr](https://economic.github.io/swadlr/)             | State of Working America Data Library in R         |
+| Package | Description |
+|----|----|
+| [epidatatools](https://economic.github.io/epidatatools/) | Tools for working with EPI data |
+| [epiextractr](https://economic.github.io/epiextractr/) | Extract and process CPS microdata |
+| [epitargets](https://economic.github.io/epitargets/) | targets pipeline helpers for EPI projects |
+| [prefab](https://economic.github.io/prefab/) | Opinionated theme system for R project scaffolding |
+| [realtalk](https://economic.github.io/realtalk/) | Inflation adjustment for price data |
+| [swadlr](https://economic.github.io/swadlr/) | State of Working America Data Library in R |
 
 ## Acknowledgments
 
 This package draws heavily on the architecture of the
-[tidyverse](https://tidyverse.tidyverse.org/) package by Hadley Wickham
-and Posit Software, PBC.
+[tidyverse](https://tidyverse.tidyverse.org/) package by Hadley Wickham.
 
 ## License
 
