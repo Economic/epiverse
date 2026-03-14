@@ -1,0 +1,10 @@
+url: https://economic.github.io/epiverse/
+
+template:
+  package: epitemplate
+
+reference:
+- title: Package information
+  contents:
+  - epiverse_packages
+  - epiverse_conflicts
