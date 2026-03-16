@@ -35,4 +35,5 @@ Remotes:
     economic/realtalk,
     economic/swadlr
 Config/testthat/edition: 3
+Config/Needs/website: economic/epitemplate
 URL: https://economic.github.io/epiverse/
