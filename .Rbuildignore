@@ -1,8 +1,9 @@
-^epiverse\.Rproj$
 ^\.Rproj\.user$
 ^\.claude$
 ^CLAUDE\.md$
 ^plans$
 ^LICENSE\.md$
 ^_pkgdown\.yml$
+^docs$
 ^README\.Rmd$
+^\.github$
