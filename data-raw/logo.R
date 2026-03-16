@@ -76,9 +76,8 @@ p <- ggplot() +
   geom_path(
     data = orbit_paths,
     aes(x = x, y = y, group = group),
-    color = "#fff7bf",
-    alpha = 0.5,
-    linewidth = 0.25,
+    color = "#fdc35a",
+    linewidth = 0.50,
     linetype = "dotted"
   ) +
   geom_polygon(
