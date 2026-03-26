@@ -10,13 +10,16 @@
 
 ## Citation
 
+Source:
+[`DESCRIPTION`](https://github.com/economic/epiverse/blob/main/DESCRIPTION)
+
 Zipperer B (2026). *epiverse: Easily Install and Load the EPI R Package
-Suite*. R package version 0.1.0, <https://economic.github.io/epiverse/>.
+Suite*. R package version 0.2.0, <https://economic.github.io/epiverse/>.
 
     @Manual{,
       title = {epiverse: Easily Install and Load the EPI R Package Suite},
       author = {Ben Zipperer},
       year = {2026},
-      note = {R package version 0.1.0},
+      note = {R package version 0.2.0},
       url = {https://economic.github.io/epiverse/},
     }

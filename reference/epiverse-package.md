@@ -11,6 +11,10 @@ Useful links:
 
 - <https://economic.github.io/epiverse/>
 
+- <https://github.com/Economic/epiverse>
+
+- Report bugs at <https://github.com/economic/epiverse/issues>
+
 ## Author
 
 **Maintainer**: Ben Zipperer <benzipperer@gmail.com>
