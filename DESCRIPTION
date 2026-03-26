@@ -1,6 +1,6 @@
 Package: epiverse
 Title: Easily Install and Load the EPI R Package Suite
-Version: 0.1.0
+Version: 0.2.0
 Authors@R:
     c(person(given = "Ben",
              family = "Zipperer",
@@ -21,7 +21,7 @@ Imports:
     epidatatools (>= 1.0.1),
     epiextractr (>= 0.11.0),
     epitargets (>= 0.2.0),
-    prefab (>= 0.0.0.9000),
+    prefab (>= 0.2.0),
     realtalk (>= 2026.3.11),
     swadlr (>= 0.2.0)
 Suggests:
@@ -36,4 +36,5 @@ Remotes:
     economic/swadlr
 Config/testthat/edition: 3
 Config/Needs/website: economic/epitemplate
-URL: https://economic.github.io/epiverse/
+URL: https://economic.github.io/epiverse/, https://github.com/Economic/epiverse
+BugReports: https://github.com/economic/epiverse/issues

@@ -6,12 +6,16 @@
 \alias{epiverse-package}
 \title{epiverse: Easily Install and Load the EPI R Package Suite}
 \description{
+\if{html}{\figure{logo.png}{options: style='float: right' alt='logo' width='120'}}
+
 The 'epiverse' package makes it easy to install and load the collection of R packages maintained by the Economic Policy Institute. Loading 'epiverse' attaches all included packages and reports any function conflicts.
 }
 \seealso{
 Useful links:
 \itemize{
   \item \url{https://economic.github.io/epiverse/}
+  \item \url{https://github.com/Economic/epiverse}
+  \item Report bugs at \url{https://github.com/economic/epiverse/issues}
 }
 
 }
